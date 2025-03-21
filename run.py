@@ -17,7 +17,7 @@ class Ship:
             self.is_sunk = True
             return True
         return False
-    
+
 
 class Board:
     def __init__(self, size):
