@@ -38,7 +38,7 @@ In this version, you enter your name and preferred board size, then attempt to s
   - Validates input format
 - **Data maintained in class instances**
 
-![Game End](media/battleship_game_end.png)
+![validation](media/valid.png)
 
 ### Future Features
 
