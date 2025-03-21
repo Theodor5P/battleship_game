@@ -346,3 +346,8 @@ class BattleshipGame:
             self.play_game()
         else:
             print("\nThank you for playing Battleship! Goodbye!")
+
+
+if __name__ == "__main__":
+    game = BattleshipGame()
+    game.play_game()
